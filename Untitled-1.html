@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Historia de la Segunda Guerra Mundial</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      line-height: 1.6;
+      color: #333;
+    }
+
+    header {
+      background-color: #222;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 0 20px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h1, h2 {
+      color: #2c3e50;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #222;
+      color: white;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Historia de la Segunda Guerra Mundial</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Introducción</h2>
+      <p>La Segunda Guerra Mundial fue un conflicto global que duró desde 1939 hasta 1945. Fue la guerra más extensa y destructiva de la historia, involucrando a la mayoría de las naciones del mundo, divididas en dos alianzas principales: los Aliados y las Potencias del Eje.</p>
+    </section>
+
+    <section>
+      <h2>Origen del conflicto</h2>
+      <p>Las causas fueron múltiples, incluyendo el tratado de Versalles, la crisis económica mundial y el ascenso del fascismo. La invasión de Polonia por parte de la Alemania nazi el 1 de septiembre de 1939 marcó el inicio oficial del conflicto.</p>
+    </section>
+
+    <section>
+      <h2>Fases principales</h2>
+      <ul>
+        <li><strong>1939-1941:</strong> Avance del Eje en Europa (Polonia, Francia, Balcanes, etc.).</li>
+        <li><strong>1941:</strong> Invasión alemana de la Unión Soviética (Operación Barbarroja) y ataque japonés a Pearl Harbor.</li>
+        <li><strong>1942-1943:</strong> Batallas decisivas como Stalingrado y El Alamein marcan el cambio de rumbo.</li>
+        <li><strong>1944:</strong> Desembarco aliado en Normandía (Día D).</li>
+        <li><strong>1945:</strong> Derrota del Eje, suicidio de Hitler, bombas atómicas en Hiroshima y Nagasaki.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Consecuencias</h2>
+      <p>La guerra causó entre 60 y 85 millones de muertos. Europa quedó devastada, y se creó la ONU para prevenir nuevos conflictos globales. La guerra también marcó el inicio de la Guerra Fría entre Estados Unidos y la URSS.</p>
+    </section>
+
+    <section>
+      <h2>Países involucrados</h2>
+      <p>
+        <strong>Aliados:</strong> Reino Unido, Unión Soviética, Estados Unidos, China, Francia, entre otros.<br>
+        <strong>Eje:</strong> Alemania, Italia, Japón.
+      </p>
+    </section>
+
+    <section>
+      <h2>Datos curiosos</h2>
+      <ul>
+        <li>El conflicto dio lugar al desarrollo del radar, cohetes y la energía nuclear.</li>
+        <li>El Holocausto fue uno de los crímenes más atroces, con 6 millones de judíos asesinados.</li>
+        <li>El Día D fue la mayor invasión anfibia de la historia.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Historia Mundial. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
